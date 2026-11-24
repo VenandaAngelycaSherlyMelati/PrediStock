@@ -2,7 +2,7 @@
   <img src="src/main/resources/static/images/logo.png" alt="PrediStock Official Logo" width="460">
 </p>
 
-# 🚀 PANDUAN CARA MENJALANKAN APLIKASI PREDISTOCK & TROUBLESHOOTING
+# PANDUAN CARA MENJALANKAN APLIKASI PREDISTOCK & TROUBLESHOOTING
 
 > **Sistem Kasir (POS) dan Peramalan Kebutuhan Stok UMKM Berbasis Prinsip OOP Murni**  
 > **Tugas Besar Pemrograman Berorientasi Objek (PBO) — Telkom University**  
@@ -10,23 +10,23 @@
 
 ---
 
-> 📖 **PENTING UNTUK BAHAN PRESENTASI & SIDANG:**  
+>  **PENTING UNTUK BAHAN PRESENTASI & SIDANG:**  
 > Untuk penjelasan detail konsep OOP per modul (Modul 1 s.d. Modul 5, PIC masing-masing, skenario demo di depan Dosen, dan kisi-kisi tanya jawab sidang), silakan buka berkas:  
-> 👉 **[PANDUAN_MODUL_DAN_SIDANG.md](file:///c:/Users/zaini/Documents/Tugas_kuliah_Telkom_University/PBO/Tubes/PANDUAN_MODUL_DAN_SIDANG.md)**
+>  **[PANDUAN_MODUL_DAN_SIDANG.md](file:///c:/Users/zaini/Documents/Tugas_kuliah_Telkom_University/PBO/Tubes/PANDUAN_MODUL_DAN_SIDANG.md)**
 
 ---
 
-## ⚡ Ringkasan Cepat: Mengapa Aplikasi Ini Bebas Repot? (Zero Configuration)
+##  Ringkasan Cepat: Mengapa Aplikasi Ini Bebas Repot? (Zero Configuration)
 
 Rekan-rekan kelompok **TIDAK PERLU** pusing mengatur *environment* database yang rumit:
-* ❌ **TIDAK PERLU install XAMPP, MySQL, atau PostgreSQL** (Database SQLite berjalan otomatis di dalam Java).
-* ❌ **TIDAK PERLU install Maven mandiri di Windows** (VS Code dan IntelliJ sudah memiliki Maven bawaan).
-* ❌ **TIDAK PERLU install Node.js / NPM** (Antarmuka web dashboard sudah tertanam langsung di Spring Boot).
-* ❌ **TIDAK PERLU menginput data dari nol** (Saat aplikasi pertama kali berjalan di laptop Anda, sistem otomatis membuat database dan menyuntikkan data uji coba lengkap selama 14 hari: akun, produk, dan transaksi).
+*  **TIDAK PERLU install XAMPP, MySQL, atau PostgreSQL** (Database SQLite berjalan otomatis di dalam Java).
+*  **TIDAK PERLU install Maven mandiri di Windows** (VS Code dan IntelliJ sudah memiliki Maven bawaan).
+*  **TIDAK PERLU install Node.js / NPM** (Antarmuka web dashboard sudah tertanam langsung di Spring Boot).
+*  **TIDAK PERLU menginput data dari nol** (Saat aplikasi pertama kali berjalan di laptop Anda, sistem otomatis membuat database dan menyuntikkan data uji coba lengkap selama 14 hari: akun, produk, dan transaksi).
 
 ---
 
-## 📋 CHECKLIST: Apa Saja yang DIBUTUHKAN di Laptop Anda?
+##  CHECKLIST: Apa Saja yang DIBUTUHKAN di Laptop Anda?
 
 Hanya ada **2 HAL** yang wajib terpasang di laptop Anda:
 
@@ -48,7 +48,7 @@ Hanya ada **2 HAL** yang wajib terpasang di laptop Anda:
 
 ---
 
-## 💻 Panduan Menjalankan Aplikasi (Langkah Demi Langkah)
+##  Panduan Menjalankan Aplikasi (Langkah Demi Langkah)
 
 ### CARA 1: Menggunakan Visual Studio Code (Paling Mudah & Sangat Disarankan)
 
@@ -83,7 +83,7 @@ Hanya ada **2 HAL** yang wajib terpasang di laptop Anda:
 6. **Buka Aplikasi di Browser:**
    * Buka Google Chrome, Microsoft Edge, atau Firefox.
    * Ketik alamat berikut di address bar:  
-     👉 **[http://localhost:8080/](http://localhost:8080/)**
+      **[http://localhost:8080/](http://localhost:8080/)**
    * Layar login interaktif PrediStock akan langsung terbuka!
 
 ---
@@ -111,7 +111,7 @@ Hanya ada **2 HAL** yang wajib terpasang di laptop Anda:
 
 ---
 
-## 🔑 Kredensial Login Akun Uji Coba (Tersedia Tombol 1-Klik)
+##  Kredensial Login Akun Uji Coba (Tersedia Tombol 1-Klik)
 
 Pada halaman login web, telah disediakan tombol **1-Klik Demo** agar Anda dan rekan tidak perlu mengetik username dan password berulang kali:
 
@@ -123,7 +123,7 @@ Pada halaman login web, telah disediakan tombol **1-Klik Demo** agar Anda dan re
 
 ---
 
-## 🛠️ Panduan Troubleshooting & Solusi Masalah Umum (FAQ)
+##  Panduan Troubleshooting & Solusi Masalah Umum (FAQ)
 
 Berikut adalah daftar kemungkinan kendala yang mungkin dialami rekan kelompok dan solusi praktisnya:
 
@@ -203,10 +203,10 @@ Berikut adalah daftar kemungkinan kendala yang mungkin dialami rekan kelompok da
 
 ---
 
-## 🎯 Selanjutnya Apa?
+##  Selanjutnya Apa?
 
 Setelah aplikasi berhasil berjalan di browser Anda:
 * Pelajari pembagian modul Anda (Modul 1 s.d. Modul 5), peran Anda, serta kisi-kisi jawaban pertanyaan Dosen dengan membaca:  
-  👉 **[PANDUAN_MODUL_DAN_SIDANG.md](file:///c:/Users/zaini/Documents/Tugas_kuliah_Telkom_University/PBO/Tubes/PANDUAN_MODUL_DAN_SIDANG.md)**
+   **[PANDUAN_MODUL_DAN_SIDANG.md](file:///c:/Users/zaini/Documents/Tugas_kuliah_Telkom_University/PBO/Tubes/PANDUAN_MODUL_DAN_SIDANG.md)**
 
-*Selamat mencoba dan semoga sukses untuk seluruh tim pengembang PrediStock!* 🎓✨
+*Selamat mencoba dan semoga sukses untuk seluruh tim pengembang PrediStock!* 
